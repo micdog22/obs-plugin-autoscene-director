@@ -1,5 +1,5 @@
 
-# AutoScene Director — Troca de Cena por Janela Ativa (Script Python)
+# AutoScene Director - Troca de Cena por Janela Ativa (Script Python)
 
 Alternativa simples para troca automática de cena com base na **janela ativa** (Windows). Útil para alternar cenas ao focar um jogo, navegador, editor etc.
 
