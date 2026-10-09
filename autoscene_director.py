@@ -1,5 +1,5 @@
 
-# AutoScene Director — Windows foreground window based scene switcher
+# AutoScene Director: Windows foreground window based scene switcher
 import obspython as obs
 import ctypes, ctypes.wintypes as wt
 import re, time
